@@ -1,4 +1,6 @@
-/.vscode
+.direnv
+.pre-commit-config.yaml
 /.embuild
-/target
+/.vscode
 /Cargo.lock
+/target
